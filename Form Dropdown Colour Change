@@ -1,0 +1,6 @@
+<style>
+  select{
+    background-color: #ffffff; /*to change background color*/
+    color: grey; /*to change text color*/
+  }
+</style>
