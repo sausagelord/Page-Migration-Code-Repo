@@ -1,0 +1,11 @@
+<style>
+  
+/*
+Remember to add custom class .box-animation
+Change -8px to increase or decrease movement
+*/
+  
+  .box-animation:hover{
+    transform: translateY(-8px);
+  }
+</style>
