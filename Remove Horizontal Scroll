@@ -1,0 +1,5 @@
+<style>
+ #lp-pom-root{
+   overflow-x: hidden !important;
+  }
+</style>
