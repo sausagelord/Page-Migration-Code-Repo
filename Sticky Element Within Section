@@ -1,0 +1,9 @@
+<style>
+
+/* Replace "#lp-pom-box-131" with the ID of your sticky element and the 'top' value with the pixel height of your element start position */
+
+#lp-pom-box-131 {
+  position: sticky;
+  top: 100px
+
+</style>
