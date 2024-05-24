@@ -1,0 +1,5 @@
+<style>
+  ::placeholder{
+  color:white !important;
+  }
+</style>
