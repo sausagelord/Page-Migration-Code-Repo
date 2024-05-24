@@ -1,4 +1,6 @@
 <style>
+
+/* Update #FFFFFF with the hex code of the colour you wish to use. */
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
   color: #FFFFFF;
 }
