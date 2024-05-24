@@ -1,0 +1,4 @@
+<style>
+/* Update #lp-pom-image-40 with the ID of your landing page's element. */
+  #lp-pom-image-40 { cursor: pointer; }
+</style>
