@@ -1,0 +1,29 @@
+<style>
+  /* Style Checkboxes */
+
+  .ub-input-item.input-wrap.optionsList input[type="checkbox"]{
+
+    display:block;
+
+    float: right !important;
+
+  }
+
+  .option {
+
+    margin-bottom: inherit !important;
+
+  }
+
+  .option label {
+
+    position: relative !important;
+
+    margin-bottom: inherit !important;
+/* Change '30px' to adjust to form */
+    margin-right: 30px !important;
+
+    float: right !important;
+
+  }
+</style>
