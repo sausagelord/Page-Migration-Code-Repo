@@ -1,0 +1,7 @@
+<style>
+
+/* Update 'white' with the colour/hex code of your bullet points. */
+ul{
+color : white;
+}
+</style>
