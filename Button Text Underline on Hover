@@ -1,0 +1,6 @@
+<style>
+
+/* Update #lp-pom-button-24 with the ID of your landing page's button. */
+ #lp-pom-button-24 .label:hover {text-decoration: underline;}
+                                                    
+</style>
