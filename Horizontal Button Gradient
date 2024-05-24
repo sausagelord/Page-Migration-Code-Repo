@@ -1,0 +1,8 @@
+<style>
+
+/* Update .ctabutton with the custom class/ID of your landing page's buttons. */
+/* Update colour hex codes with the left and right colours of the gradient. */
+  .ctabutton {
+    background: linear-gradient(to right, #C5437A , #A63665) !important;
+  }
+</style>
