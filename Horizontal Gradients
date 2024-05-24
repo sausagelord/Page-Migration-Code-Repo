@@ -1,0 +1,9 @@
+<style>
+
+/* Update #lp-pom-block-52 with the ID of your landing page's section/box element. */
+/* Update #9800ff and #ff005a with the hex codes of the left and right-hand colours of your gradient. */
+  #lp-pom-block-52 {
+    background: linear-gradient(90deg,#9800ff,#ff005a);
+    width: 100%;
+  }
+</style>
