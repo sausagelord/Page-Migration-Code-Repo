@@ -1,0 +1,73 @@
+<style>
+  #faq-section p{
+    font-family: 'Haffer',sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #002957;
+    line-height: 27px;
+}
+#faq-section h3, #faq-section h4{
+    position: relative;
+    font-family: 'Haffer',sans-serif;
+    font-size: 32px;
+    cursor: pointer;
+    margin: 0px;
+    color: #002957;
+}
+#faq-section h4{
+    font-size: 32px;
+ 	font-weight: 300;
+    padding-top: 40px;
+    padding-bottom:  18px;
+    padding-right: 50px;
+    color: #002957;
+    line-height: 32px;
+}
+#faq-section .fa{
+    font-size: 40px;
+    position: absolute;
+    cursor: pointer;
+    right:  0;
+    top: 60%;
+    transform:  translateY(-50%);
+}
+#faq-section{
+    background-color: #FFFFFF;
+    position: relative;
+    padding: 3.89rem 0;
+}
+#faq-container{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+#faq-container> .faq-parent{
+    width: 100%;
+    text-align: center;
+}
+#faq-section .faq-child{
+    text-align: left;
+    margin-top: 4rem !important;
+}
+#faq-section .faq-child>div{
+    border-bottom: 1px solid #EBE8DF!important;
+    padding-bottom: 1rem!important;
+    width: 100%;
+}
+#faq-section .expanded .toggle-content {
+   display: block;
+}
+#faq-section .collapse h4 .fa-angle-down {
+   display: block;
+}
+#faq-section .expanded .fa-angle-down {
+   display: none;
+}
+#faq-section .collapse .toggle-content {
+   display: none;
+}
+#faq-section .collapse .fa-angle-up {
+   display: none;
+}
+</style>
