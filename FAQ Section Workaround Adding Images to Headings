@@ -1,0 +1,11 @@
+<style>
+  .faq-title {
+    height: 80px !important;
+    padding-top: 60px !important;
+    background-image: url("Add image URL here");
+    background-repeat: no-repeat;
+    background-position: 0px 20px; /* left top */
+    background-size: 90px;
+    overflow: visible;
+  }
+</style>
