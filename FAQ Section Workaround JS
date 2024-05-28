@@ -1,0 +1,6 @@
+<script>
+  $(document).on('click', '.faq-title', function() {
+        $(this).parent().siblings().removeClass('expanded').addClass('collapse');
+        $(this).parent().toggleClass('expanded collapse');
+    });
+</script>
