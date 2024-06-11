@@ -1,0 +1,7 @@
+<style>
+/* replace 'box-19' with the id of your sticky element */
+  #lp-pom-box-19 {
+    position: sticky;
+    top: 30px; /* change number to fit your needs *
+  }
+</style>
