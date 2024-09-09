@@ -1,0 +1,10 @@
+<style>
+#lp-pom-root {
+   background: transparent !important;
+ }
+  
+.ub-emb-overlay .ub-emb-iframe-wrapper .ub-emb-iframe {
+  box-shadow: none !important;
+ }
+ 
+</style>
