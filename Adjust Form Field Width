@@ -1,0 +1,15 @@
+<style>
+/** change form field ID from 'email' to the field you are targeting **/  
+
+/** Desktop **/
+  .lp-pom-form-field .ub-input-item.single.form_elem_email {
+    width: 329px !important; 
+  }
+
+  /** Mobile **/
+  @media only screen and (max-width: 600px) {  
+    .lp-pom-form-field .ub-input-item.single.form_elem_email {
+      width: 241px !important; 
+    }
+  }
+</style>
