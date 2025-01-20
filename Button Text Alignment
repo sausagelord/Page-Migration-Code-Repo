@@ -1,0 +1,7 @@
+<style>
+/** Change button ID, alignemnt to left or right, then use padding to fine-tune **/
+#lp-pom-button-327 .label{
+text-align: left;
+padding-left: 0px;
+}
+</style>
