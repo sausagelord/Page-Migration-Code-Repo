@@ -1,0 +1,7 @@
+<style>
+  .footerlink span:hover {
+    color: #77ad5c !important;
+    text-decoration: none;
+    transition: color 300ms;
+  }
+</style>
