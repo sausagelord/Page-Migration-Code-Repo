@@ -1,0 +1,94 @@
+<style>
+  
+.accordion li {
+    background-color: #000000;
+    position: relative;
+    list-style: none;
+    padding:30px 40px !important;
+    border-radius: 10px !important;
+    margin-bottom: 20px !important;
+}
+.accordion a.accordion-title {
+    width: 100%;
+    display: block;
+    cursor: pointer;
+    font-weight: bold;
+    line-height: 32px;
+    user-select: none;
+    color: #fff !important;
+    font-size: 28px !important;
+  	font-family: "Montserrat", serif;
+}
+
+.accordion a.accordion-title.active {
+    color: #FFFFFF !important;
+}
+.accordion a.accordion-title:after {
+    width: 31px;
+    color: #d2d2d2;
+    height: 31px;
+    position: absolute;
+    right: 40px;
+    /*content: "+";*/
+    content: "";
+    top: 30px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    font-size: 28px;
+    font-weight: normal !important;
+    background-image: url('https://i.imgur.com/orBc5bg.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+	border-radius: 22px;
+}
+.accordion li p {
+    display: none;
+    font-size: 18px!important;
+  line-height: 30px!important;
+  padding-top: 40px;
+  color:#00FFC2!important;
+  font-family: "Montserrat", serif;
+  width:95%!important;
+}
+
+.accordion a.accordion-title.active:after {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  /*content: "-";*/
+  content: "";
+  background-image: url('https://i.imgur.com/mOLg5AS.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+	border-radius: 22px;
+}
+
+@media only screen and (max-width: 600px) {
+    .accordion li {
+    padding:15px 20px !important;
+    border-radius: 8px !important;
+}
+.accordion a.accordion-title {
+    user-select: none;
+    color: #fff !important;
+    font-size: 18px !important;
+    line-height: 26px!important;
+    width:88% !important;
+}
+.accordion li p{
+  font-size: 16px!important;
+  line-height: 26px!important;
+  padding-top: 8px;
+  color:#00FFC2!important;
+  font-family: "Montserrat", serif;
+.accordion a.accordion-title:after {
+    width: 31px;
+    height: 31px;
+    right: 15px;
+    top: 17px;
+}
+  
+}  
+  
+</style> 
