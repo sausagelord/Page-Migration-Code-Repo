@@ -1,0 +1,22 @@
+<ul class="accordion">
+    <li>
+        <a class="accordion-title">Question 1</a>
+        <p>Add your answer here</p>
+    </li>
+    <li>
+        <a class="accordion-title">Question 2</a>
+        <p>Add your answer here</p>
+    </li>
+    <li>
+        <a class="accordion-title">Question 3</a>
+        <p>Add your answer here</p>
+    </li>
+    <li>
+        <a class="accordion-title">Question 4</a>
+        <p>Add your answer here</p>
+    </li>
+    <li>
+        <a class="accordion-title">Question 5</a>
+        <p>Add your answer here</p>
+    </li>
+</ul>
